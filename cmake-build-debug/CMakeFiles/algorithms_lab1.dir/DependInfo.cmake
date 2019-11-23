@@ -4,16 +4,20 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/algorithms/algorithms-lab1/main.cpp" "C:/algorithms/algorithms-lab1/cmake-build-debug/CMakeFiles/algorithms_lab1.dir/main.cpp.obj"
+  "C:/algorithms/algorithms-lab3/main.cpp" "C:/algorithms/algorithms-lab3/cmake-build-debug/CMakeFiles/algorithms_lab1.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
+  "../lib/googletest/googletest/include"
+  "../lib/googletest/googletest"
   )
 
 # Targets to which this target links.
 set(CMAKE_TARGET_LINKED_INFO_FILES
+  "C:/algorithms/algorithms-lab3/cmake-build-debug/lib/googletest/googletest/CMakeFiles/gtest.dir/DependInfo.cmake"
+  "C:/algorithms/algorithms-lab3/cmake-build-debug/lib/googletest/googletest/CMakeFiles/gtest_main.dir/DependInfo.cmake"
   )
 
 # Fortran module output directory.

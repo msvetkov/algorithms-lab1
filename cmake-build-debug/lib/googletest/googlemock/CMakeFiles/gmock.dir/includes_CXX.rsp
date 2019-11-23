@@ -1,0 +1,1 @@
+-IC:/algorithms/algorithms-lab3/lib/googletest/googlemock/include -IC:/algorithms/algorithms-lab3/lib/googletest/googlemock -isystem C:/algorithms/algorithms-lab3/lib/googletest/googletest/include -isystem C:/algorithms/algorithms-lab3/lib/googletest/googletest 

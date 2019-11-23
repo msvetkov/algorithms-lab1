@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/algorithms/algorithms-lab1/src/linked_list/exceptions.cpp
+exception
+-
+
+C:/algorithms/algorithms-lab1/src/linked_list/list.cpp
+list.h
+C:/algorithms/algorithms-lab1/src/linked_list/list.h
+
+C:/algorithms/algorithms-lab1/src/linked_list/list.h
+iostream
+-
+node.h
+C:/algorithms/algorithms-lab1/src/linked_list/node.h
+exceptions.cpp
+C:/algorithms/algorithms-lab1/src/linked_list/exceptions.cpp
+
+C:/algorithms/algorithms-lab1/src/linked_list/node.cpp
+node.h
+C:/algorithms/algorithms-lab1/src/linked_list/node.h
+
+C:/algorithms/algorithms-lab1/src/linked_list/node.h
+
